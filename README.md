@@ -10,3 +10,4 @@ Put all of the files in an same main folder,put the visualization and index in a
 Like that put style.css file into a new folder named in the main folder static 
 then create a folder named uploads in the main folder
 the app.py file will be in the main folder without any subfolder 
+Run the program via the command prompt or the terminal in VS code but install all the required libraries
